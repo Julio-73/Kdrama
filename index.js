@@ -1,4 +1,4 @@
-/*========Scrolll========*/
+/*========Scrolll js ========*/
 
 ScrollReveal({
   reset: true,
